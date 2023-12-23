@@ -36,7 +36,8 @@ $grays: (
 // fusv-enable
 
 // scss-docs-start color-variables
-$blue:    #0d6efd !default;
+$bootstrap-blue: #0d6efd !default;
+$blue:    #25a0da !default;
 $indigo:  #6610f2 !default;
 $purple:  #6f42c1 !default;
 $pink:    #d63384 !default;
@@ -50,6 +51,7 @@ $cyan:    #0dcaf0 !default;
 
 // scss-docs-start colors-map
 $colors: (
+  "bootstrap-blue": $boostrap-blue,
   "blue":       $blue,
   "indigo":     $indigo,
   "purple":     $purple,
@@ -301,7 +303,7 @@ $cyans: (
 $primary:       $blue !default;
 $secondary:     $gray-600 !default;
 $success:       $green !default;
-$info:          $cyan !default;
+$info:          $bootstrap-blue !default;
 $warning:       $yellow !default;
 $danger:        $red !default;
 $light:         $gray-100 !default;
