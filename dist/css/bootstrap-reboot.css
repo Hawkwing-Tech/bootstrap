@@ -31,7 +31,7 @@
   --bs-primary: #25a0da;
   --bs-secondary: #6c757d;
   --bs-success: #198754;
-  --bs-info: #087990;
+  --bs-info: #6f42c1;
   --bs-warning: #ffc107;
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
@@ -39,7 +39,7 @@
   --bs-primary-rgb: 37, 160, 218;
   --bs-secondary-rgb: 108, 117, 125;
   --bs-success-rgb: 25, 135, 84;
-  --bs-info-rgb: 8, 121, 144;
+  --bs-info-rgb: 111, 66, 193;
   --bs-warning-rgb: 255, 193, 7;
   --bs-danger-rgb: 220, 53, 69;
   --bs-light-rgb: 248, 249, 250;
@@ -47,7 +47,7 @@
   --bs-primary-text-emphasis: #0f4057;
   --bs-secondary-text-emphasis: #2b2f32;
   --bs-success-text-emphasis: #0a3622;
-  --bs-info-text-emphasis: #03303a;
+  --bs-info-text-emphasis: #2c1a4d;
   --bs-warning-text-emphasis: #664d03;
   --bs-danger-text-emphasis: #58151c;
   --bs-light-text-emphasis: #495057;
@@ -55,7 +55,7 @@
   --bs-primary-bg-subtle: #d3ecf8;
   --bs-secondary-bg-subtle: #e2e3e5;
   --bs-success-bg-subtle: #d1e7dd;
-  --bs-info-bg-subtle: #cee4e9;
+  --bs-info-bg-subtle: #e2d9f3;
   --bs-warning-bg-subtle: #fff3cd;
   --bs-danger-bg-subtle: #f8d7da;
   --bs-light-bg-subtle: #fcfcfd;
@@ -63,7 +63,7 @@
   --bs-primary-border-subtle: #a8d9f0;
   --bs-secondary-border-subtle: #c4c8cb;
   --bs-success-border-subtle: #a3cfbb;
-  --bs-info-border-subtle: #9cc9d3;
+  --bs-info-border-subtle: #c5b3e6;
   --bs-warning-border-subtle: #ffe69c;
   --bs-danger-border-subtle: #f1aeb5;
   --bs-light-border-subtle: #e9ecef;
@@ -143,7 +143,7 @@
   --bs-primary-text-emphasis: #7cc6e9;
   --bs-secondary-text-emphasis: #a7acb1;
   --bs-success-text-emphasis: #75b798;
-  --bs-info-text-emphasis: #6bafbc;
+  --bs-info-text-emphasis: #a98eda;
   --bs-warning-text-emphasis: #ffda6a;
   --bs-danger-text-emphasis: #ea868f;
   --bs-light-text-emphasis: #f8f9fa;
@@ -151,7 +151,7 @@
   --bs-primary-bg-subtle: #07202c;
   --bs-secondary-bg-subtle: #161719;
   --bs-success-bg-subtle: #051b11;
-  --bs-info-bg-subtle: #02181d;
+  --bs-info-bg-subtle: #160d27;
   --bs-warning-bg-subtle: #332701;
   --bs-danger-bg-subtle: #2c0b0e;
   --bs-light-bg-subtle: #343a40;
@@ -159,7 +159,7 @@
   --bs-primary-border-subtle: #166083;
   --bs-secondary-border-subtle: #41464b;
   --bs-success-border-subtle: #0f5132;
-  --bs-info-border-subtle: #054956;
+  --bs-info-border-subtle: #432874;
   --bs-warning-border-subtle: #997404;
   --bs-danger-border-subtle: #842029;
   --bs-light-border-subtle: #495057;
